@@ -1,0 +1,20 @@
+C:\Users\OOP11\source\repos\Матрица\Матрица\bin\Debug\Матрица.exe.config
+C:\Users\OOP11\source\repos\Матрица\Матрица\bin\Debug\Матрица.exe
+C:\Users\OOP11\source\repos\Матрица\Матрица\bin\Debug\Матрица.pdb
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Матрица.Form1.resources
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Матрица.Properties.Resources.resources
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Матрица.exe
+C:\Users\OOP11\source\repos\Матрица\Матрица\obj\Debug\Матрица.pdb
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\bin\Debug\Матрица.exe.config
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\bin\Debug\Матрица.exe
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\bin\Debug\Матрица.pdb
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Matrix.csprojAssemblyReference.cache
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Матрица.Form1.resources
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Матрица.Properties.Resources.resources
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Matrix.csproj.GenerateResource.cache
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Матрица.exe
+D:\Сергей\для школы\6В\Програмирование\Матрица\Матрица\obj\Debug\Матрица.pdb
